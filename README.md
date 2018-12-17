@@ -1,13 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Project Description Geolocator W5
-Geolocator w5 is a platform that allows you create dynamic applications or projects with valuable and unlimitae data regarding to 
+Geolocator w5 is a platform that allows you create dynamic applications with valuable and unlimitae data regarding to 
 the user's location and input.
-this app lets you pull ypur exact location take a picture to record an event and place some input.
-all this data will be securely strored in our database and will only be accessible by the project creator. Example, you are an UFO hunter. this app allows you creat a project ufo that can use for anyone the user wants and it gives unlimited data about where exacly people are encountering UFOs as well as pictures for proof or reference.
+this app lets you pull your exact location take a picture to record an event and place some input.
+all this data will be securely strored in our database and will only be accessible by the project creator. Example, you are an UFO hunter. This app allows you create a project ufo that can use for anyone the user wants and it gives unlimited data about where exacly people are encountering UFOs as well as pictures for proof or reference.
 #### Built with React and Rewact-Native. 
 Check it out [here](https://shrouded-dusk-83098.herokuapp.com).
 
-main page is to log in to existing pojects for access to data. Else click on sign up and create your project once is created you camn access with the project name and password.
+main page is to log in to existing pojects for access to data. Else click on sign up and create your project once is created you can access with the project Name and Password.
 
 ### Clone
 git clone 

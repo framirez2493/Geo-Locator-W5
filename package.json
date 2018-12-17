@@ -1,5 +1,5 @@
 {
-  "name": "w5",
+  "name": "geolocator-w5",
   "version": "1.0.0",
   "description": "React app to quickly grab user location for different applications and uses",
   "main": "server.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "",
-    "url": ""
+    "url": "https://github.com/framirez2493/Geo-Locator-W5"
   },
-  "author": "",
+  "author": "Fernando R",
   "license": "ISC",
   "bugs": {
   
   },
-  "homepage": "",
+  "homepage": "https://shrouded-dusk-83098.herokuapp.com",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
