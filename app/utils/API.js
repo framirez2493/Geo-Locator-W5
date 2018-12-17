@@ -10,7 +10,7 @@ const apiHost =
             .split(`:`)
             .shift()
             .concat(`:3030`)
-        : `https://wfive.herokuapp.com/`;
+        : `https://shrouded-dusk-83098.herokuapp.com`;
 
 export default {
     // Gets all Maps
