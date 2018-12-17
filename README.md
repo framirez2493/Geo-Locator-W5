@@ -8,7 +8,8 @@ all this data will be securely strored in our database and will only be accessib
 Check it out [here](https://shrouded-dusk-83098.herokuapp.com).
 
 main page is to log in to existing pojects for access to data. Else click on sign up and create your project once is created you camn access with the project name and password.
-##clone
+
+### Clone
 git clone 
 npm install or Yarn install npm start to run locally 
 cd app
